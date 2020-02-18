@@ -143,7 +143,12 @@ input:hover {
   </style>
   
   
-  
+  <!DOCTYPE html>
+<html>
+<head>
+  <title>Affordable Web Solutions</title>
+</head>
+<body>
   
   
   <header>
@@ -254,3 +259,5 @@ input:hover {
     </div> -->
               
   </main>
+  </body>
+  </html>
